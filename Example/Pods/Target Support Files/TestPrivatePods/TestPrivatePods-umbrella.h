@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LuaViewController.h"
 
 FOUNDATION_EXPORT double TestPrivatePodsVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestPrivatePodsVersionString[];
