@@ -1,0 +1,22 @@
+{
+  "name": "TestPrivatePods",
+  "version": "0.1.0",
+  "summary": "A short description of TestPrivatePods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luxiaol/TestPrivatePods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luxiaol": "lu_xiaol@126.com"
+  },
+  "source": {
+    "git": "https://github.com/luxiaol/TestPrivatePods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPrivatePods/Classes/**/*"
+}
