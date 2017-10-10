@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                        test descripton
+                        A short description of TestPrivatePods. and it is just a test prject, and need to be long than summary
                        DESC
 
   s.homepage         = 'https://github.com/luxiaol/TestPrivatePods'
